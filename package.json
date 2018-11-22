@@ -1,0 +1,17 @@
+{
+  "name": "adding_images_node",
+  "version": "1.0.0",
+  "description": "uploading images in node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  },
+  "devDependencies": {}
+}
